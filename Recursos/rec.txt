@@ -1,1 +1,15 @@
-.
+Papers: 
+
+Technical trading revisited: False discoveries, persistence tests, and transaction costs 
+https://doi.org/10.1016/j.jfineco.2012.06.001 
+
+Videos:
+https://www.youtube.com/watch?v=xfzGZB4HhEE&t=12083s
+https://www.youtube.com/watch?v=m1rY2J8ZlsY
+https://www.youtube.com/watch?v=yEyG8rYM9J4&t=972s
+
+Links:
+https://www.kaggle.com/code/anushadixit1901/sentiment-analysis-on-stock-tweets
+https://cognitiveclass.ai/courses/unleashing-the-power-of-reinforcement-learning-for-trading
+https://github.com/public-apis/
+https://www.nixtla.io/
